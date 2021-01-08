@@ -1,14 +1,8 @@
 ---
-title: All spikes
-date: "2019-05-04"
-thumbnail: ./charles-deluvio-695732-unsplash.jpg
-description: A cactus doesn't live in the desert because it likes the desert; it lives there because the desert hasn't killed it yet.
+title: Tumultuous Tweni Beach
+date: "2020-11-01"
+thumbnail: ./Andrew_Brauteseth_Umtentweni_000037.JPG
+description: `The beach by my mom's house has a massive shortbreak. It's only 5 minutes down the road. We had just arrived from Johannesburg. It's a perpectual place. Living in memories from generation to generation. The family holidays. The ice-cream dropped on the pavement.`
 ---
 
-![Cactus](./charles-deluvio-695757-unsplash.jpg)
-
-![Cactus](./charles-deluvio-695736-unsplash.jpg)
-
-![Cactus](./charles-deluvio-695758-unsplash.jpg)
-
-![Cactus](./charles-deluvio-695733-unsplash.jpg)
+![TweniBeach](./Andrew_Brauteseth_Umtentweni_000037.JPG)
