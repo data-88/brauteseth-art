@@ -45,8 +45,8 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://www.instagram.com/brautseth.art"
+                title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
               >
