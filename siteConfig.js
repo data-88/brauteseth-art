@@ -1,7 +1,7 @@
 module.exports = {
   name: "Andrew Brauteseth",
   shortName: "Brauteseth",
-  description: "Bear with me while I turn this ship around",
+  description: "Artist  ",
   url: "https://brauteseth.art", // Domain of your site without prefix!
   prefix: "/",
   author: "Imed Adel",

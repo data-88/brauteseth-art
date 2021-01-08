@@ -18,8 +18,8 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            A wanderer perhaps. A visual tourist. Curious for the curios.
+            Movement between mediums is a pleasure.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
@@ -28,10 +28,10 @@ const AboutPage = ({ data }, location) => {
             />
             <figcaption>Large imagery is at the heart of this theme</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
+          <h3 id="dynamic-styles">A brief history.</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            Walking a chequered passage of cultural determination. The trend is
+            to meaningless but interesting.
           </p>
           <p>
             Both post and page templates are light and minimal, with all the
