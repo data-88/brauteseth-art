@@ -1,9 +1,8 @@
 module.exports = {
   name: "Andrew Brauteseth",
   shortName: "Brauteseth",
-  description:
-    "A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery",
-  url: "https://gatsby-london.netlify.com", // Domain of your site without prefix!
+  description: "Bear with me while I turn this ship around",
+  url: "https://brauteseth.art", // Domain of your site without prefix!
   prefix: "/",
   author: "Imed Adel",
   twitter: "Imed_Adel",
